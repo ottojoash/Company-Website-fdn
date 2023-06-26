@@ -1,8 +1,7 @@
 import React from "react";
 import Card from "./Card";
-import img1 from "../src/Pictures/img1.png";
 import img2 from "../src/Pictures/img2.png";
-import img3 from "../src/Pictures/img3.png";
+
 
 const serviceData = [
   {
